@@ -1,3 +1,3 @@
 # NomadTent
 
-for study React JS
+For study React JS build
